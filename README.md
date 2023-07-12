@@ -1,5 +1,3 @@
-# Lisyn: Collaborative Playlist
-
 Create the interactive playlist live and listen to music together.
 Set your vibe by adding songs to the playlist, vote for songs shared by friends to move them up in the queue.
 
