@@ -1,3 +1,13 @@
+title: Lisyn: Collaborative Playlist
+author:
+  name: Alexander Tokarev
+  email: alexander.v.tokarev@gmail.com
+
+# The `>` after `description:` means to ignore line-breaks until next key.
+# If you want to omit the line-break after the end of text, use `>-` instead.
+description: >
+  Create the interactive playlist live and listen to music together. Set your vibe by adding songs to the playlist, vote for songs shared by friends to move them up in the queue.
+
 # Theme
 theme: minima
 
