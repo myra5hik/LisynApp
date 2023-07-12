@@ -1,3 +1,8 @@
+---
+title: Privacy Policy
+permalink: /privacy/
+---
+
 # Privacy Policy
 
 Lisyn (the “App”), which is owned and developed by Alexander Tokarev, does not collect any personally identifiable information about any users who install the app.
