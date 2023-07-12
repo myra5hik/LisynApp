@@ -1,5 +1,5 @@
 ---
-title: Support
+title: FAQ
 permalink: /help/
 ---
 
