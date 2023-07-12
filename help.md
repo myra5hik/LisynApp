@@ -1,3 +1,8 @@
+---
+title: Support
+permalink: /help/
+---
+
 ## General Questions
 
 ### Who are Hosts?
@@ -42,3 +47,9 @@ Access the Connectivity screen by tapping on the 'Antenna button' at the top-rig
 2. You are within Bluetooth range of the Host, typically 10-15 meters.
 3. The Host has enabled new connections.
 4. There are fewer than 10-12 guests in the room (the maximum number may vary depending on the Host's device).
+
+## Misc
+
+### There is no answer to my question 
+
+Please [send us a message](https://twitter.com/lisyn_app) on Twitter
