@@ -1,0 +1,15 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": ["YYF2BW2PXU.com.myra5hik.Lisyn"],
+        "components": [
+          {
+            "/": "/connect",
+            "?": { "code": "*" }
+          }
+        ]
+      }
+    ]
+  }
+}
