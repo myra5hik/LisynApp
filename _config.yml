@@ -12,3 +12,6 @@ minima:
 # Links
   social_links:
     - { platform: twitter, user_url: "https://twitter.com/lisyn_app" }
+
+# App links
+include: [".well-known"]
