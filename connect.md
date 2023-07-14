@@ -13,8 +13,8 @@ permalink: /connect
     <img width="200" src="https://lisyn.app/assets/DownloadOnTheAppStore.png" alt="Download on the App Store">
   </a>
 </p>
-<p></p>
-<p></p>
+<p align="center"> </p>
+<p align="center"> </p>
 
 1. Download the Lisyn app by clicking on the image above
 2. Make sure you are in Bluetooth range from the Host (typically, within 10-15 meters)
