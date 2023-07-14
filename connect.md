@@ -2,5 +2,5 @@
 permalink: /connect
 ---
 
-![Lisyn App Logo](/LisynApp/assets/LisynLogo.png)
-![Download on the App Store](/LisynApp/assets/DownloadOnTheAppStore.png)
+![Lisyn App Logo](/assets/LisynLogo.png)
+![Download on the App Store](/assets/DownloadOnTheAppStore.png)
