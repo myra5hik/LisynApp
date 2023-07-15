@@ -16,6 +16,6 @@ permalink: /connect
 <p align="center"> </p>
 <p align="center"> </p>
 
-1. Download the Lisyn app by clicking on the image above
-2. Make sure you are in Bluetooth range from the Host (typically, within 10-15 meters)
-3. Open the invite link again to connect to the room
+1. Download / update the Lisyn app by clicking on the image above.
+2. Make sure you are within Bluetooth range of the Host (typically 10-15 meters).
+3. Re-open the invite link to connect to the room.
