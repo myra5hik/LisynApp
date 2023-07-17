@@ -5,8 +5,7 @@
         "appIDs": ["V4YFFJ2V7Y.com.myra5hik.Lisyn"],
         "components": [
           {
-            "/": "/connect",
-            "?": { "code": "*" }
+            "/": "/connect"
           }
         ]
       }
